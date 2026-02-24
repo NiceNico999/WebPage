@@ -1,3 +1,8 @@
+---
+title: Home
+icon: material/bird
+---
+
 # DinoSoft
 
 <!-- TODO: Add front matter with title, description, and icon

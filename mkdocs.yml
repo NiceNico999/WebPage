@@ -1,0 +1,15 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - toc.integrate
+
+
+markdown_extentions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.siuperfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
